@@ -1,31 +1,55 @@
+<img src="assets/preview.png" alt="Loquai — anteprima della demo" width="100%" />
+
 # Loquai
 
-Progetto personale · AI e dati
+> Uno studio vocale nel browser: trasforma un testo in voce, gestisce una libreria di voci e trascrive l’audio.
 
-Studio web per sintesi vocale, gestione delle voci e trascrizione, con struttura SaaS.
+`10` · **Progetto personale · voce** · 2026 · Ideazione e sviluppo
 
-## Esigenza
+[Caso studio completo](https://portfolio.lele-tradevalue.com/progetti/loquai/) · [English version](https://portfolio.lele-tradevalue.com/en/progetti/loquai/)
 
-Gestire testo e audio in un flusso di lavoro unico.
+## Il problema
 
-## Contributo
+Chi produce contenuti audio passa da uno strumento all’altro: uno per la sintesi, uno per le voci, uno per le trascrizioni, ognuno con il suo account e i suoi limiti.
 
-Ho collegato servizi audio, interfaccia e gestione delle elaborazioni.
+## Cosa ho costruito
+
+Loquai riunisce tutto in uno studio web: editor di testo con generazione vocale, libreria delle voci, trascrizione e cronologia dei lavori, con una struttura pronta per più utenti e quote.
+
+## Come funziona
+
+1. **Scrivi** — Il testo da far leggere.
+2. **Scegli la voce** — Dalla libreria personale.
+3. **Genera e ascolta** — Il file resta nello storico.
+4. **Trascrivi** — Il percorso inverso, dall’audio al testo.
+
+## Perché funziona
+
+- **Un solo posto.** Sintesi, voci e trascrizione insieme.
+- **Pronto per più utenti.** Account, quote e cronologia separati.
 
 ## Stack
 
-Python, FastAPI, React, SQLite, Mistral Voxtral.
+`Python` `FastAPI` `React` `SQLite` `Mistral Voxtral`
 
-## Una scelta da raccontare
+## Cosa resta privato
 
-I materiali pubblici non includono voci o registrazioni di terzi.
+Panoramica selettiva: codice e configurazioni restano privati. Questo repository contiene solo la presentazione del progetto: niente codice sorgente, cronologia o configurazioni.
 
-## Esplora
+<details>
+<summary><b>In English</b></summary>
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/loquai/)
+**Loquai** — A voice studio in the browser: turn text into speech, manage a library of voices and transcribe audio.
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/loquai.html)
+Loquai brings it all into one web studio: a text editor with voice generation, a voice library, transcription and job history, structured to support multiple users and quotas.
 
-## Ambito pubblico
+- **One place.** Synthesis, voices and transcription together.
+- **Multi-user ready.** Separate accounts, quotas and history.
 
-Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
+[Read the full case study and try the demo →](https://portfolio.lele-tradevalue.com/en/progetti/loquai/)
+
+</details>
+
+---
+
+<sub>Emanuele Montalto · [portfolio](https://portfolio.lele-tradevalue.com) · [LinkedIn](https://www.linkedin.com/in/emanuele-montalto/) · [montalto36@gmail.com](mailto:montalto36@gmail.com)</sub>
